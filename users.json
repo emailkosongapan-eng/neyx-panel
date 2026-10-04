@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "apanzxc",
+      "passwordHash": "scrypt$cb571e8650b987296bdcad2bb93e614f$6566b0d93809365ffef65ef236915bb54a9719bc52336a3488184543d570dea24ab0f70b22947884ec026d4a4bc7d17b0f01950d3ec55e63b03b14b75d2ef968",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-04T01:27:45.775Z"
+    },
+    {
+      "username": "8042378125",
+      "passwordHash": "scrypt$359f9904aa0d396b57e5d3cdc60db638$161b0694f16c5bae30f74b6b3f05f4da7d35702e3e57e189e026e7fee1a99d56dda11e3cc21b57ffeb5692b1fc3d7e06074af4d8693c64a0883d5b747f6a2444",
+      "role": "creator",
+      "active": true,
+      "createdAt": "2026-10-04T09:02:58.603Z",
+      "createdBy": "apanzxc"
+    },
+    {
+      "username": "ridho",
+      "passwordHash": "scrypt$8bc9fd2e37ccffebd0e01b941374584e$a3c496a76c40134681c468ab29893e142fddaef340b7d0493dfb65f76b285a912723944d4934ae6c23cf1054e5538e4d1d598b674bd1ec02b3ab354bf7822a20",
+      "role": "reseller",
+      "active": true,
+      "createdAt": "2026-10-04T10:12:03.810Z",
+      "createdBy": "8042378125",
+      "tokensAdded": 1
+    }
+  ]
+}
